@@ -1,0 +1,58 @@
+.boxes{
+  margin-top: 20px;
+  padding-bottom: 30px;
+  padding-left: 10px;
+  .box{
+    float: left;
+    text-align: center;
+    width: 30%;
+    padding: 10px;
+    h1{
+      font-size: 50px;
+      margin-bottom: 10px;
+      color: #3f9ada;
+    }
+    img{
+      width: 150px;
+      border-radius: 100px;
+    }
+    p{
+      color: #628395;
+    }
+    
+  }
+}
+
+
+
+.boxes-2{
+  margin-top: 0px;
+  margin-left: 15px;
+  .box-2{
+    float: left;
+    text-align: left;
+    width: 50%;
+    padding: 75px;
+  }
+  .box-img-1{
+    background-image: url(bg-showcase-1.jpg);
+    float: left;
+    width: 50%;
+    padding: 150px;
+  }
+  .box-img-2{
+    background-image: url(bg-showcase-2.jpg);
+    float: left;
+    width: 50%;
+    padding: 150px;
+  }
+  .box-img-3{
+    background-image: url(bg-showcase-3.jpg);
+    float: left;
+    width: 50%;
+    padding: 150px;
+  }
+  p{
+    color: #628395;
+  }
+}

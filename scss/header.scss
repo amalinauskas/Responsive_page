@@ -1,0 +1,28 @@
+header{
+  background: white;
+  color: black;
+  padding-top: 10px;
+  min-height: 40px;
+  width: 100%;
+  position: fixed;
+  ul{
+    margin: 0;
+    padding: 0;
+  }
+  li{
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+  }
+  nav{
+    float: right;
+  }
+  #branding{
+    float: left;
+    h4{
+      margin: 0;
+      font-size: 14px;
+      color: #0000009c;
+    }
+  }
+}
